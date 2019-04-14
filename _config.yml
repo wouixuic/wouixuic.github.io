@@ -1,10 +1,10 @@
 # Site settings
 title: Anonymous Blog               #你博客的标题
-SEOTitle: 许超的博客 | BY Blog       #显示在浏览器上搜索的时候显示的标题
+SEOTitle: 许超的博客 | just a test Blog       #显示在浏览器上搜索的时候显示的标题
 header-img:  img/post-bg-rwd.jpg    #背景图片
 email: wouixuic@163.com
 description: "This just is an anonymous blog."              #网站介绍
-keyword: "BY, BY Blog, 许超的博客, xuchao, 许超, tree, philosophy,mind"  #关键词
+keyword: "test,  Blog, 许超的博客, xuchao, 许超, tree, philosophy,mind"  #关键词
 url: "http://wouixuic.github.io"          # your host, for absolute URL，这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
