@@ -1,6 +1,6 @@
 # Site settings
 title: Anonymous Blog               #你博客的标题
-SEOTitle: 许超的博客 | just a test Blog       #显示在浏览器上搜索的时候显示的标题
+SEOTitle: 许超的博客 | just a  Blog       #显示在浏览器上搜索的时候显示的标题
 header-img:  img/post-bg-rwd.jpg    #背景图片
 email: wouixuic@163.com
 description: "This just is an anonymous blog."              #网站介绍
@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar-m.jpg     # use absolute URL, seeing it's used in bo
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     我是许许许
+zhihu_username:     我是许许许许
 github_username:    wouixuic
 facebook_username:  
 jianshu_username:   
