@@ -1,29 +1,29 @@
 # Site settings
 title: Anonymous Blog               #你博客的标题
-SEOTitle: 许超的博客 | just a test Blog       #显示在浏览器上搜索的时候显示的标题
+SEOTitle: 许超的博客 | just a Blog       #显示在浏览器上搜索的时候显示的标题
 header-img:  img/post-bg-rwd.jpg    #背景图片
 email: wouixuic@163.com
 description: "This just is an anonymous blog."              #网站介绍
-keyword: "test,  Blog, 许超的博客, xuchao, 许超, tree, philosophy,mind"  #关键词
+keyword: " Blog, 许超的博客, xuchao, 许超, tree, philosophy,博客"  #关键词
 url: "http://wouixuic.github.io"          # your host, for absolute URL，这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wouixuic/wouixuic.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.  是否开启侧边栏.
 sidebar-about-description: "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind. "
-sidebar-avatar: /img/avatar-m.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`你的个人头像
+sidebar-avatar: /img/avatar-xc.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`你的个人头像
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     我是许许许
+zhihu_username:     我是许许许许
 github_username:    wouixuic
 facebook_username:  
 jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:   wouixuic
 
 
 
@@ -56,29 +56,29 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ Disqus（https://disqus.com/）
+ disqus_username: wouixuic
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: false     #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: wouixuic.github.io    #仓库名称
+  owner: wouixuic    #github用户名
+  admin: wouixuic
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ Baidu Analytics
+ba_track_id: bca71f08c387932d1a6efb9bf3561f4f
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: wouixuic.xyz              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: wouixuic.xyz              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,15 +100,15 @@ service-worker: true
 friends: [
     {
         title: "001",
-        href: #"http://zhengwuyang.com"      链接
+        href: #"http://zhengwuyang.com"      好友链接
     },{
         title: "002",
-        href: #"http://www.jianshu.com/u/e71990ada2fd"
+        href: #"002链接"
     },{
         title: "003",
-        href: #"https://apple.com"
+        href: #"003链接"
     },{
         title: "004",
-        href: #"https://developer.apple.com/"
+        href: #"004链接"
     }
 ]
