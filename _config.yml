@@ -7,7 +7,7 @@ SEOTitle: 许超的博客 | just a  Blog       #显示在浏览器上搜索的�
 >>>>>>> 7c5e4bf27ca817dc669cfe35ecfe0a7242d6874c
 header-img:  img/post-bg-rwd.jpg    #背景图片
 email: wouixuic@163.com
-description: "This just is an anonymous blog."              #网站介绍
+description: "This just is a blog."              #网站介绍
 keyword: " Blog, 许超的博客, xuchao, 许超, tree, philosophy,博客"  #关键词
 url: "http://wouixuic.github.io"          # your host, for absolute URL，这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -23,7 +23,7 @@ sidebar-avatar: /img/avatar-xc.jpg     # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     我是许许许许
+zhihu_username:    wo-shi-xu-xu-xu-xu
 github_username:    wouixuic
 facebook_username:  
 jianshu_username:   
